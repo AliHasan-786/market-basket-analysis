@@ -22,19 +22,19 @@ This project analyzes retail transaction data to provide actionable insights for
 
 ## 🔄 **Methodology**
 
-### **Phase 1: Data Foundation (Weeks 1-2)**
+### **Phase 1: Data Foundation**
 1. **Data Loading & Inspection**: Import and analyze raw retail transaction data
 2. **Data Cleaning & Validation**: Remove cancellations, standardize formats, handle missing values
 3. **Quality Assurance**: Implement comprehensive data quality checks and error handling
 4. **Data Structuring**: Create normalized dimension tables (products, customers, transactions)
 
-### **Phase 2: Analysis & Insights (Weeks 3-4)**
+### **Phase 2: Analysis & Insights**
 5. **Baseline Analysis**: Generate product performance metrics and revenue rankings
 6. **Market Basket Analysis**: Calculate support, confidence, and lift for product associations
 7. **Promotional Modeling**: Simulate discount impact scenarios with elasticity assumptions
 8. **Data Quality Audit**: Comprehensive accuracy assessment and reporting
 
-### **Phase 3: Implementation & Delivery (Weeks 5-8)**
+### **Phase 3: Implementation & Delivery**
 9. **Dashboard Development**: Interactive Streamlit application for business users
 10. **Documentation & Training**: Comprehensive guides and implementation roadmap
 
